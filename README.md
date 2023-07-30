@@ -1,0 +1,1 @@
+This repository contains some of my favorite recipes I've experimented with and modified over the years. This is also my first project of "The Odin Project" curriculum where I'll demonstrate some basic HTML elements such as headers, images, links (both absolute and relative), and lists (both ordered and unordered).
