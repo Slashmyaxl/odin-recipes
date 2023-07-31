@@ -1,0 +1,35 @@
+* {
+    font-family: "Times New Roman", Times, serif;
+    background-color: hsl(187, 100%, 96%)
+}
+
+h1 {
+    text-align: center;
+    font-size: 46px;
+
+}
+
+p {
+    font-size: 1.2em;
+}
+
+div {
+    padding: 5px;
+}
+
+img {
+    max-height: 600px;
+    max-width: 95%;
+    margin: auto;
+    padding: 5px;
+    display: block;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-top: 15px;
+}
+
+li {
+    font-size: 18px;
+}
